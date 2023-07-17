@@ -1,6 +1,7 @@
 package service;
 
 import connection.Conexao;
+import model.Rebelde;
 
 import java.sql.Connection;
 import java.util.Scanner;
@@ -49,7 +50,7 @@ public class Menu {
                     RemoverRebelde.removerRebelde();
                     break;
                 case 8:
-                    //BaseDeCompras.realizarCompra();
+                    BaseDeCompras.realizarCompra();
                     break;
                 case 0:
                     System.out.println("Saindo...");

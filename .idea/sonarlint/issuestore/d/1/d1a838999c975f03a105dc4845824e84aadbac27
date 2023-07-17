@@ -1,0 +1,15 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8„œÊÖ•1
+q
+java:S2095$"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ô£Çàıÿÿÿÿ8î‘ËÖ•1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(¾‹ë–8‡œÊÖ•1
+J
+java:S1659"-Declare "novaLocalizacao" on a separate line.(Áä¤¸8ŠœÊÖ•1
+E
+java:S1481"(Remove this unused "sql" local variable.(Áä¤¸8œÊÖ•1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ıú‘Àşÿÿÿÿ8œÊÖ•1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(çî'8œÊÖ•1
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(ïÔı»ÿÿÿÿÿ8œÊÖ•1
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(§–¸†üÿÿÿÿ8œÊÖ•1
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(Òİ×ú8œÊÖ•1

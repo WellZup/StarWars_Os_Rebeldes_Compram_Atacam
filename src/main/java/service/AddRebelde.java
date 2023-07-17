@@ -33,7 +33,7 @@ public class AddRebelde {
         nome = entrada.nextLine();
         System.out.println("Idade: ");
         idade = entrada.nextInt();
-        entrada.nextLine();
+        entrada.nextLine(); // Usei para limpar cache que impedia a entrada do "Gênero"
         System.out.println("Gênero: ");
         genero = entrada.nextLine();
         System.out.println("Localização: ");

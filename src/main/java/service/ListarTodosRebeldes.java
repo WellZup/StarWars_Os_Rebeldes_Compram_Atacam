@@ -29,11 +29,11 @@ public class ListarTodosRebeldes {
                 Rebelde rebelde = new Rebelde(id, nome, idade, genero, localizacao, traidor, reportar);
 
 
-                System.out.println(rebelde.getId());
-                System.out.println(rebelde.getNome());
-                System.out.println(rebelde.getIdade());
-                System.out.println(rebelde.getGenero());
-                System.out.println(rebelde.getLocalizacao());
+                System.out.println("ID: " + rebelde.getId());
+                System.out.println("Nome: " + rebelde.getNome());
+                System.out.println("Idade: " + rebelde.getIdade());
+                System.out.println("Gênero: " + rebelde.getGenero());
+                System.out.println("Localização: " + rebelde.getLocalizacao());
                 System.out.println("Traidor? True or False? \n" + rebelde.isTraidor());
                 System.out.println("==================================");
 
