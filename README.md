@@ -115,7 +115,7 @@ Fiz algumas alterações para deixar cada função em classes separadas, refator
 
 
 ## 🛠 Habilidades
-Javascript, HTML, CSS...
+Java, Pesquisas, Estudos...
 
 
 ## Autores
